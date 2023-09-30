@@ -169,6 +169,10 @@ android-file-transfer
 gvfs-mtp
 broadcom-wl-dkms
 gparted
+nvidia
+nvidia-utils
+lib32-nvidia-utils
+cuda 
 
 #parchlinuxstuff
 calamares
