@@ -172,7 +172,6 @@ gparted
 nvidia
 nvidia-utils
 opencl-nvidia
-lib32-nvidia-utils
 cuda 
 
 #parchlinuxstuff
