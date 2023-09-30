@@ -28,9 +28,8 @@ jobs:
         run: mkarchiso -v iso/
       - name: Upload iso to the release
         run: |
-         cd ./out
-         local iso_name=$(ls *.iso)
-         mkdir iso_parts
-         split -d -b 1000M "$iso_name" iso_parts/"$iso_name"_part
-         gh release upload ${{ github.event.release.tag_name }} ./iso_parts/* —clobber -R ${{ github.repository }}
+          cd ./out
+          mkdir iso_parts
+          split -d -b 1000M "$(ls *.iso)" iso_parts/"$(ls *.iso)"_part
+          gh release upload ${{ github.event.release.tag_name }} ./iso_parts/* —clobber -R ${{ github.repository }}
 
