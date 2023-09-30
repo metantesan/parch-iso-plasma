@@ -172,7 +172,7 @@ gparted
 nvidia
 nvidia-utils
 opencl-nvidia
-cuda 
+cuda
 
 #parchlinuxstuff
 calamares
