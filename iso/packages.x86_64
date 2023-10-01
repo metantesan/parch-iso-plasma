@@ -173,6 +173,10 @@ nvidia
 nvidia-utils
 opencl-nvidia
 nvtop
+mpv
+parch-mpv
+telegram-desktop
+openrgb
 
 #parchlinuxstuff
 calamares
