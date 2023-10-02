@@ -173,6 +173,7 @@ gparted
 nvidia
 nvidia-utils
 opencl-nvidia
+cuda
 nvtop
 mpv
 parch-mpv
