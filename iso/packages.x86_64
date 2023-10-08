@@ -179,6 +179,10 @@ parch-mpv
 telegram-desktop
 aegisub
 bluedevil
+pipewire
+pipewire-pulse
+wireplumber
+gst-plugin-pipewire
 
 #videocodec
 jasper
@@ -211,7 +215,7 @@ ffmpeg
 
 #parchlinuxstuff
 calamares
-parchlinux-cala-config
+calamares-parch
 os-prober
 paru
 parch-branding
