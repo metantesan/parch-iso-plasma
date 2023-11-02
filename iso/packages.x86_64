@@ -183,7 +183,7 @@ pipewire
 pipewire-pulse
 wireplumber
 gst-plugin-pipewire
-blender
+#blender
 
 #videocodec
 jasper
