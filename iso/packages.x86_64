@@ -185,11 +185,8 @@ pipewire-pulse
 wireplumber
 gst-plugin-pipewire
 blender
-# random bull shit
-gnome
-cinnamon
-xfce4
-
+cuda
+cudnn
 
 
 #videocodec
