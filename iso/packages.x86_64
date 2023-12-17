@@ -185,8 +185,7 @@ pipewire-pulse
 wireplumber
 gst-plugin-pipewire
 blender
-cuda
-cudnn
+
 
 
 #videocodec
